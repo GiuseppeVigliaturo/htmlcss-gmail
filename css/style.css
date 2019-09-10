@@ -1,0 +1,102 @@
+
+
+body{
+  background-image: url("../img/sfondolegno.jpg");
+  background-repeat:repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+.mainimg{
+  margin: 0px;
+  width: 100px;
+}
+
+.trenta{
+  background-color:orange;
+  border-radius: 50%;
+  color: white;
+}
+.globale{
+  margin-top: 7%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 30%
+}
+
+ /*cambio font alla parola Gmail*/
+.Gmailtitolo {
+
+font-size: 30px;
+font-style: italic;
+color: white;
+}
+
+.Gmailfooter {
+
+font-size: 30px;
+font-style: italic;
+color: white;
+
+}
+
+/* blocco barra di ricerca*/
+.hrbarraricerca{
+  margin-bottom: 8px;
+  color: black;
+}
+
+/*
+.sfondonum{
+  background-color: orange;
+}
+*/
+
+#numero{
+  background-color: orange;
+  width: 18px;
+  height: 18px;
+}
+
+/* blocco della email lette */
+
+.lineaemail{
+background-color: lightblue;
+padding: 0px;
+border: 0px;
+margin: -9px;
+
+
+}
+
+
+.imgstella{
+  width: 12px;
+  height: 12px;
+}
+
+#nonletta{
+  background-color: white;
+}
+hr{
+  border: solid 2px black;
+  padding: 0px;
+  margin: 0px;
+  color:white;
+}
+/* immagine del numero */
+
+
+#hrfooter{
+  border: 2px grey;
+}
+
+footer{
+  text-align: center;
+}
+
+/*facoltativo*/
+
+.cambiocolore:hover {
+background-color: red;
+}
